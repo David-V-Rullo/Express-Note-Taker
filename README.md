@@ -1,6 +1,8 @@
 # Express-Note-Taker
 ### Description
 This is a small web based note taking app. It allows you to create a series of notes to retrive later. 
+
+These notes can be added and deleted on the webpage and stored for later use via black magic and sorcery also known as computers.
 ### Links
 
 [GitHub](https://david-v-rullo.github.io/Express-Note-Taker/)
@@ -25,3 +27,8 @@ This is a small web based note taking app. It allows you to create a series of n
 - Javascript
 - HTML
 - CSS
+
+### Author
+This app was created by David Rullo using boilerplate code, his blood, sweat, and tears. 
+
+David is an aspiring web developer. 
