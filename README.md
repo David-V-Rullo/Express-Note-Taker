@@ -1,7 +1,6 @@
 # Express-Note-Taker
 ### Description
-This is a small web based note taking app. It allows you to create a series of notes to retrive later. It uses node.js, javascript, HTML, and CSS. 
-
+This is a small web based note taking app. It allows you to create a series of notes to retrive later. 
 ### Links
 
 [GitHub](https://david-v-rullo.github.io/Express-Note-Taker/)
@@ -20,4 +19,9 @@ This is a small web based note taking app. It allows you to create a series of n
 
 ![screenshot 2](https://user-images.githubusercontent.com/80405589/125167969-34e66300-e171-11eb-9aaa-99c86595d374.JPG)
 
-
+### Technology
+- Node.js
+- Express
+- Javascript
+- HTML
+- CSS
